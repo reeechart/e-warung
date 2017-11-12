@@ -38,7 +38,7 @@
         <div class="nearwar">
             <div class="map">
                 <div class="empty"></div>
-                <div class="subbut"><a href="#" class="confloc">Get your Food now !</a></div>
+                <div class="subbut"><a href="konfirmasi-pesanan.php" class="confloc">Get your Food now !</a></div>
             </div>
             <div class="map"></div>
         </div>
