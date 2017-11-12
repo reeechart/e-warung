@@ -63,7 +63,7 @@ img.small-icon {
 .order-item {
 	position: relative;
 	display: inline-flex;
-	margin: px 10px;
+	margin: 4px 10px;
 	border: 1px solid black;
 	background-color: #eeeeee;
 	padding: 7px 4px;
