@@ -17,7 +17,7 @@
 		</div>
 		<div class="order-info">
 			<div class="floatright order-status queued status-fixed-height"><span class="order-detail-status">Queued</span></div>
-			<button class="floatright cancel-button">× Cancel</button>
+			<button class="floatright cancel-button" onclick="cancelOrder()">× Cancel</button>
 		</div>
 		<div class="body-content">
 			<h3>You ordered: </h3>
