@@ -374,3 +374,17 @@ img.food{
             bottom:30px;
         }
 .act-btn:hover{background: blue}
+
+input[type=submit]{
+    margin:auto;
+    display:block;
+    background-color: #82D800; 
+    border: solid black;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}

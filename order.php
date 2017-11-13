@@ -11,14 +11,17 @@
 </head>
 <body>
 	<?php include_once("navbar.php"); ?>
-        <a href="#" class="act-btn">
+    <a href="viewCart.php" class="act-btn">
             🛒
         </a>
 	<div class="container">
 		<div class="page-header">
 			<h1>Specify Your Order</h1>
 		</div>
-            
+            <br>
+            <form method=\"post\" action="complOrder.php">
+            <input type="submit" value="Finish Order" style="float:right;">
+            </form>
                 <div class="tabs">    
                 <div class="tab">
                     <input type="radio" id="tab-1" name="tab-group-1" checked>
