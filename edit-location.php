@@ -50,35 +50,35 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="item active">
-                            <img alt="Carousel Bootstrap First" src="http://lorempixel.com/output/sports-q-c-1600-500-1.jpg">
+                            <img alt="Carousel Bootstrap First" src="img/warung1.jpg">
                             <div class="carousel-caption">
                                 <h4>
                                     Warung Bu Tatan
                                 </h4>
                                 <p>
-                                    Bu Tatan terkenal dengan warung 
+                                    
                                 </p>
                             </div>
                         </div>
                         <div class="item">
-                            <img alt="Carousel Bootstrap Second" src="http://lorempixel.com/output/sports-q-c-1600-500-2.jpg">
+                            <img alt="Carousel Bootstrap Second" src="img/warung2.jpg">
                             <div class="carousel-caption">
                                 <h4>
                                     Warung Ubed
                                 </h4>
                                 <p>
-                                    Warung Ubed terkenal dengan blabla
+                                    
                                 </p>
                             </div>
                         </div>
                         <div class="item">
-                            <img alt="Carousel Bootstrap Third" src="http://lorempixel.com/output/sports-q-c-1600-500-3.jpg">
+                            <img alt="Carousel Bootstrap Third" src="img/warung3.jpg">
                             <div class="carousel-caption">
                                 <h4>
                                     Warung Das
                                 </h4>
                                 <p>
-                                    Warung Das adalah warung blablabla
+                                    
                                 </p>
                             </div>
                         </div>
