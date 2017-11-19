@@ -9,3 +9,7 @@ function cancelOrder() {
 		window.location = "myorders.php";
 	}
 }
+
+function editLocation() {
+  window.location = "edit-location.php";
+}

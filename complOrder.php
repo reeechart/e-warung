@@ -45,7 +45,7 @@
                         <div class='fooddet'>
                             <input type="text">
                             <br>
-                            <div class='fooddesc'> <input type="button" value="Edit Location" style="background:blue;
+                            <div class='fooddesc'> <input type="button" onclick="editLocation()" value="Edit Location" style="background:blue;
             display: block;
             line-height: 50px;
             text-align: center;
@@ -62,4 +62,5 @@
             </form>
                 </div>
 </body>
+<script src="js/master.js"></script>
 </html>
