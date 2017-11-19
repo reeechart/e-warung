@@ -240,11 +240,6 @@ input[type=text]:focus {
 	width:60%;
 	height: 430px;
 }
-.map{
-	height: 500px;
-	background-image: url("../img/map.png");
-	width: 60%;
-}
 .confloc {
 	background-color: #4CAF50;
 	border: none;
@@ -387,4 +382,10 @@ input[type=submit]{
     display: inline-block;
     font-size: 16px;
     border-radius: 10px;
+}
+
+
+#map-canvas{
+width: 540px;
+height: 306px;
 }
