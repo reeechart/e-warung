@@ -6,7 +6,6 @@
 			<span id="motto">Food on-the-go</span>
 		</div>
 		<ul class="nav navbar-nav floatright">
-			<li><a href="menu.php">Menu</a></li>
 			<li><a href="order.php">Make an Order</a></li>
 			<li><a href="myorders.php">My Orders</a></li>
 		</ul>

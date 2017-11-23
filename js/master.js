@@ -6,7 +6,7 @@ function goBack() {
 
 function cancelOrder() {
 	if (confirm("Are you sure want to cancel this order?") == true) {
-		window.location = "myorders.php";
+		window.location = "myorderscancelled.php";
 	}
 }
 

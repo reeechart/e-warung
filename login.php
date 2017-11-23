@@ -15,7 +15,7 @@
 		<h1 class="centered beige-text">Welcome to e-Warung</h1>
 		<h3 class="centered beige-text">Login now to order</h3>
 		<div class="login-form">
-			<form method="post" action="menu.php">
+			<form method="post" action="order.php">
 				<div class="form-group">
 					<label class="beige-text" for="username">Username</label>
 					<input type="username" class="form-control" id="uname" placeholder="Username" name="uname">
