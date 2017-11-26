@@ -20,7 +20,7 @@
   <body>
   <?php include_once("navbar.php"); ?>
     <div class="container">
-        <form method=\"post\" action="complOrder.php"> 
+        <form method="post" action="complOrder.php"> 
         <div class="container-fluid">
         <div class="row">
             <div class="col-md-6">
@@ -28,7 +28,7 @@
                     Select location :
                 </h3>
                     <div class="form-group">
-                        <input type="text" id="searchmap" placeholder="">
+                        <input type="text" id="searchmap" name="destination" placeholder="">
                         <div id="map-canvas"></div>
                     </div>    
                         <input type="submit" class="btn btn-success btn-block" value="Grab Your Food Now !">

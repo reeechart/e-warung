@@ -1,3 +1,6 @@
+<?php
+    $destination = $_POST["destination"];
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -43,7 +46,7 @@
                     </div>
                     <div class='foodname' id='gehu'>
                         <div class='fooddet'>
-                            <input type="text">
+                            <input type="text" value="<?=$destination?>">
                             <br>
                             <div class='fooddesc'> <input type="button" onclick="editLocation()" value="Edit Location" style="background:blue;
             display: block;
@@ -55,12 +58,12 @@
                         </div>
                     </div>
             </div>
-            <form method=\"post\" action="complOrder.php">
-            <input type="submit" value="cancel" style="float:right; background-color: red; margin:5px;">
-            &nbsp;
-            <input type="submit" value="Confirm" style="float:right; background-color: green; margin:5px;">
+            <form method="post" action="myorders.php">
+                <input type="submit" value="cancel" style="float:right; background-color: red; margin:5px;">
+                &nbsp;
+                <input type="submit" value="Confirm" style="float:right; background-color: green; margin:5px;">
             </form>
-                </div>
+    </div>
 </body>
 <script src="js/master.js"></script>
 </html>
