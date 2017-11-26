@@ -1,4 +1,4 @@
 <?php
-	header("Location: http://localhost/e-warung/login.php");
+	header("Location: login.php");
 	exit();
 ?>
