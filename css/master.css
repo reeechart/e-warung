@@ -132,6 +132,18 @@ img.order-img {
 	width: 160px;
 	height: 100px;
 }
+.location-detail {
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+img.location {
+	width: 30px;
+	height: auto;
+}
+.location-place {
+	font-size: 20px;
+}
 td.img-container {
 	width: 45%;
 }
