@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <style>
+    br {
+        display: block;
+        margin: 0px 0;
+        line-height: 0px;
+    }
+    </style>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,14 +39,20 @@
                     <div class="form-group">
                         <input type="text" id="searchmap" name="destination" placeholder="">
                         <div id="map-canvas"></div>
-                    </div>    
+                    </div>
+                <h3>
+                        Location Detail :
+                </h3>
+                     <div class="form-group">
+                      <textarea class="form-control" rows="5" id="comment" placeholder="Write your message about location detail"></textarea>
+                     </div>    
                         <input type="submit" class="btn btn-success btn-block" value="Grab Your Food Now !">
                         </button>
                     
             </div>
             <div class="col-md-6">
                 <h3>
-                    Nearest Shop :
+                    Nearest Warung :
                 </h3>
                 <div class="carousel slide" id="carousel-33722">
                     <ol class="carousel-indicators">
@@ -51,54 +65,37 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="item active">
-                            <img alt="Carousel Bootstrap First" src="img/warung1.jpg">
-                            <div class="carousel-caption" style="font-weight:bold; font-family:cursive;">
-                                <h4>
-                                    Warung Bu Tatan
-                                </h4>
-                                    
-                                <p>
+                            <img alt="Carousel Bootstrap First" src="img/warung1.jpg" style="height:300px;width:100%;">
+                                <div style="text-align: center;font-weight:bold; font-family:cursive;">
+                                    <h4>Warung Bu Tatan</h4>
                                     <br>Rating : ☆ 4.65</br>
-                                    <br>Vote   : 1345 </br>
+                                    <br>Voters : 1345 </br>
                                     <br>Best Food : Odadi </br>
-                                </p>
-                            </div>
+                                </div>
                         </div>
                         <div class="item">
-                            <img alt="Carousel Bootstrap Second" src="img/warung2.jpg">
-                            <div class="carousel-caption" style="font-weight:bold; font-family:cursive;">
-                                <h4>
-                                    Warung Ubed
-                                </h4>
-                                    
+                            <img alt="Carousel Bootstrap Second" src="img/warung2.jpg" style="height:300px;width:100%;">
+                                <div style="font-weight:bold; font-family:cursive;text-align: center;">
+                                    <h4>Warung Ubed</h4>           
                                     <br>Rating : ☆ 4.13</br>
-                                    <br>Vote   : 1323 </br>
+                                    <br>Voters   : 1323 </br>
                                     <br>Best Food : Ayam Goreng </br>
-                                
-                            </div>
+                                </div>
                         </div>
                         <div class="item">
-                            <img alt="Carousel Bootstrap Third" src="img/warung3.jpg">
-                            <div class="carousel-caption" style="font-weight:bold; font-family:cursive;">
-                                <h4>
-                                    Warung Das
-                                </h4>
-                                <p>
-                                    <br>Rating : ☆ 4.88</br>
-                                    <br>Vote   : 1281 </br>
-                                    <br>Best Food : Chicken Katsu </br>
-                                </p>
-                            </div>
+                            <img alt="Carousel Bootstrap Third" src="img/warung3.jpg" style="height:300px;width:100%;">
+                                <div style="text-align: center;font-weight:bold; font-family:cursive;">
+                                        <h4>Warung Das</h4>
+                                        <br>Rating : ☆ 4.88</br>
+                                        <br>Voters   : 1281 </br>
+                                        <br>Best Food : Chicken Katsu </br>
+                                </div>
                         </div>
+                        
                     </div> <a class="left carousel-control" href="#carousel-33722" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a> <a class="right carousel-control" href="#carousel-33722" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
                 </div>
-                
-                <h3>
-                    Location Detail :
-                </h3>
-                    <div class="form-group">
-                        <textarea class="form-control" rows="5" id="comment" placeholder="Write your message about location detail"></textarea>
-                    </div> 
+            </div>
+            </div>
             </div>
         </form>
         </div>
