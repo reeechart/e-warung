@@ -41,10 +41,10 @@
                         <div id="map-canvas"></div>
                     </div>
                 <h3>
-                        Location Detail :
+                        Detail :
                 </h3>
                      <div class="form-group">
-                      <textarea class="form-control" rows="5" id="comment" placeholder="Write your message about location detail"></textarea>
+                      <textarea class="form-control" rows="5" id="comment" placeholder="Example: Odadingnya yang pedes ya, Terus gw nunggu nya di perempatan lampu merah! "></textarea>
                      </div>    
                         <input type="submit" class="btn btn-success btn-block" value="Grab Your Food Now !">
                         </button>
