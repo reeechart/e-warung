@@ -20,18 +20,18 @@
             <h3> Your Order </h3>
                 <div class='dispfood'>
                     <div class='foodimg'>
-                        <img class='food' src=img/sirloinsteak.jpg> 
+                        <img class='food' src=img/odading.jpg> 
                     </div>
                     <div class='foodname' id='gehu'>
                         <div class='fooddet'>
-                            Sirloin Steak with potatoes <br> 
+                            Odading <br> 
                             <div class='fooddesc'> Quantity: 1 porsi </div>
                             </div>
                         </div>
                     </div>
             <h3> Payment Details </h3>
             <div style="margin:50px"> 
-                Total Payment: Rp.65.000 <br>
+                Total Payment: Rp.5.000 <br>
                 Payment Method: 
                 <select>
                     <option value="Cash">Cash</option>
