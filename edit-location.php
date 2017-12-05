@@ -66,15 +66,15 @@
                         </div>
                         <div class="item">
                             <img alt="Carousel Bootstrap Second" src="img/warung2.jpg">
-                            <div class="carousel-caption">
+                            <div class="carousel-caption" style="font-weight:bold;">
                                 <h4>
                                     Warung Ubed
                                 </h4>
-                                <p>
+                                    
                                     <br>Rating : ☆ 4.13</br>
                                     <br>Vote   : 1323 </br>
                                     <br>Best Food : Ayam Goreng </br>
-                                </p>
+                                
                             </div>
                         </div>
                         <div class="item">
