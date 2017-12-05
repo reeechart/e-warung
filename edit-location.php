@@ -90,7 +90,7 @@
                     Detail Lokasi :
                 </h3>
                     <div class="form-group">
-                        <textarea class="form-control" rows="5" id="comment" placeholder="Tuliskan pesan anda kepada pengantar"></textarea>
+                        <textarea class="form-control" rows="5" id="comment" placeholder="Tuliskan pesan anda mengenai detail lokasi"></textarea>
                     </div> 
             </div>
         </form>
