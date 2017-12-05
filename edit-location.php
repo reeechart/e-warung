@@ -56,8 +56,11 @@
                                 <h4>
                                     Warung Bu Tatan
                                 </h4>
-                                <p>
                                     
+                                <p>
+                                    <br>Rating : ☆ 4.65</br>
+                                    <br>Vote   : 1345 </br>
+                                    <br>Best Food : Odadi </br>
                                 </p>
                             </div>
                         </div>
@@ -68,7 +71,9 @@
                                     Warung Ubed
                                 </h4>
                                 <p>
-                                    
+                                    <br>Rating : ☆ 4.13</br>
+                                    <br>Vote   : 1323 </br>
+                                    <br>Best Food : Ayam Goreng </br>
                                 </p>
                             </div>
                         </div>
@@ -79,7 +84,9 @@
                                     Warung Das
                                 </h4>
                                 <p>
-                                    
+                                    <br>Rating : ☆ 4.88</br>
+                                    <br>Vote   : 1281 </br>
+                                    <br>Best Food : Chicken Katsu </br>
                                 </p>
                             </div>
                         </div>
