@@ -38,7 +38,7 @@
             </div>
             <div class="col-md-6">
                 <h3>
-                    Warung Lokasi Terdekat :
+                    Nearest Shop :
                 </h3>
                 <div class="carousel slide" id="carousel-33722">
                     <ol class="carousel-indicators">
@@ -87,7 +87,7 @@
                 </div>
                 
                 <h3>
-                    Detail Lokasi :
+                    Location Detail :
                 </h3>
                     <div class="form-group">
                         <textarea class="form-control" rows="5" id="comment" placeholder="Tuliskan pesan anda mengenai detail lokasi"></textarea>
