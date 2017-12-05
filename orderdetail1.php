@@ -25,6 +25,9 @@
 				<img class="location" src="img/location.png">
 				<span class="location-place">&nbsp Destination: <b>Institut Teknologi Bandung</b></span>
 			</div>
+			<div class="price-detail">
+				<span class="price">Price: <b>Rp 145.000</b></span>
+			</div>
 			<h3>You ordered: </h3>
 			<table class=" order-detail-list table table-hover table-responsive">
 				<tr>
