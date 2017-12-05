@@ -52,7 +52,7 @@
                     <div class="carousel-inner">
                         <div class="item active">
                             <img alt="Carousel Bootstrap First" src="img/warung1.jpg">
-                            <div class="carousel-caption">
+                            <div class="carousel-caption" style="font-weight:bold; font-family:cursive;">
                                 <h4>
                                     Warung Bu Tatan
                                 </h4>
@@ -66,7 +66,7 @@
                         </div>
                         <div class="item">
                             <img alt="Carousel Bootstrap Second" src="img/warung2.jpg">
-                            <div class="carousel-caption" style="font-weight:bold;">
+                            <div class="carousel-caption" style="font-weight:bold; font-family:cursive;">
                                 <h4>
                                     Warung Ubed
                                 </h4>
@@ -79,7 +79,7 @@
                         </div>
                         <div class="item">
                             <img alt="Carousel Bootstrap Third" src="img/warung3.jpg">
-                            <div class="carousel-caption">
+                            <div class="carousel-caption" style="font-weight:bold; font-family:cursive;">
                                 <h4>
                                     Warung Das
                                 </h4>
