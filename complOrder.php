@@ -20,7 +20,7 @@
             <h3> Your Order </h3>
                 <div class='dispfood'>
                     <div class='foodimg'>
-                        <img class='food' src=img/odading.jpg> 
+                        <img class='food' src=img/ODADING.jpg> 
                     </div>
                     <div class='foodname' id='gehu'>
                         <div class='fooddet'>
